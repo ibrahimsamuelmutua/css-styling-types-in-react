@@ -1,0 +1,17 @@
+/*External Styling*/
+.header{
+  margin-left:20px;
+}
+
+
+
+.external_styled_btn{
+  margin:20px;
+  border-radius: 8px;
+  padding:10px 20px;
+  border:none;
+  color:whitesmoke;
+  background-color: red;
+  cursor:pointer;
+  margin-left:20px;
+}
