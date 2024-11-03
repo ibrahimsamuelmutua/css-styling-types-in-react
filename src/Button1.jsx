@@ -10,7 +10,7 @@ function Button1(){
     </header>
     <hr />
 
-    <button className="external_styled_btn">External styling</button>
+    <button className="external_styled_btn">external styling</button>
     </>
   )
 }
